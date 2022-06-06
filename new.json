@@ -1,0 +1,9 @@
+{
+	"person":
+	{
+		"fullName": "Tatyana Vladimirovna Nikitenko",
+		"age": 29,
+		"numberOfPets": 3,
+		"salaryRequirement": "above 20000"
+	}
+}
