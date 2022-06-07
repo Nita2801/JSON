@@ -9,7 +9,7 @@
 		"Priority": "high",
 		"Status": "assigned",
 		"Reporter": "Tatyana Nikitenko",
-    "Assigned to" : "Vladislav Petrov",
+                "Assigned to" : "Vladislav Petrov",
 		"Reproducibility": "always",
 		"Environment":
 		{
