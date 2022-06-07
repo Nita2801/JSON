@@ -1,0 +1,28 @@
+{
+	"courseOutline":
+	{
+		"Skills":
+		{
+			"theoryOfTesting": [
+				"types",
+				"methods",
+				"bug reports",
+				"documentatoin"
+			],
+			"hardSkills": [
+				"Dev tools",
+				"API",
+				"SQL",
+				"Terminal",
+				"Python",
+				"Git",
+				"HTTP"
+			],
+			"softSkills": [
+				"Attention to details",
+				"Communication skills",
+				"Problem-solving skills"
+			]
+		}
+	}
+}
