@@ -1,1 +1,33 @@
-
+{
+	"bugReportExample":
+	{
+		"ID": "123",
+		"Title": "Login page-login button leads to 404 error  after clicking on it",
+		"Project": "Online Cinema",
+		"productBuild": "4.2.1",
+		"Severity": "blocker",
+		"Priority": "high",
+		"Status": "assigned",
+		"Reporter": "Tatyana Nikitenko",
+    "Assigned to" : "Vladislav Petrov",
+		"Reproducibility": "always",
+		"Environment":
+		{
+			"OS": " Windows 10 LTSC 64-bit",
+			"Browser": " Google Chrome 102.0.5005.62 (Official Build) (64-bit)"
+		},
+		"Preconditions":
+		{
+			"link": "\/\/example.com",
+			"login": "lina21",
+			"password": "qwert123"
+		},
+		"Description":
+		{
+			"stepToReproduce": "open the login page http: \/\/example.com >fill in the login form> click the login button ",
+			"actualResult": "the login button leads to 404 error after clicking on it"
+			"expectesResult": "the page is succesfully uploaded after clicking on the login button"
+		},
+		"Attachment": null
+	}
+}
