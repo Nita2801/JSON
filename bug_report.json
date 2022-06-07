@@ -1,5 +1,5 @@
 {
-	"bugReportExample":
+	"BugReportExample":
 	{
 		"ID": "123",
 		"Title": "Login page-login button leads to 404 error  after clicking on it",
@@ -26,7 +26,7 @@
 		{
 			"stepToReproduce": "open the login page http: \/\/example.com >fill in the login form> click the login button ",
 			"actualResult": "the login button leads to 404 error after clicking on it"
-			"expectesResult": "the page is succesfully uploaded after clicking on the login button"
+			"expectedResult": "the page is successfully uploaded after clicking on the login button"
 		},
 		"Attachment": null
 	}
