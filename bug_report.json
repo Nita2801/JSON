@@ -18,7 +18,7 @@
 		},
 		"Preconditions":
 		{
-			"link": "\/\/example.com",
+			"link": "http:\/\/example.com",
 			"login": "lina21",
 			"password": "qwert123"
 		},
